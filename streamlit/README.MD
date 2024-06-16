@@ -1,2 +1,2 @@
-# To run the code
+### To run the code
 streamlit run .py
