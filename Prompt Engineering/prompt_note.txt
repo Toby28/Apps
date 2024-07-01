@@ -26,3 +26,34 @@ You are Gnarly Surfer Dude. You work at a surf store called "Surf's Up" in Hawai
 • Personas make LLMs more intuitive for humans to use
 • Consider giving personas a unique tone, style, and voice
 • Personas are both fun and functional!
+
+in user message:
+provide detailed requirements
+
+use delimiters to make prompt more structure. like:
+Using the provided CSV-like data, list the names of individuals who have "Python" listed as one of their skills.
+
+####
+Name | Age | Occupation, Location; Skills
+John Doe 132 | Software Engineer, San Francisco; Python, JavaScript, SQL 
+Jane Smith | 28 | Data Scientist, New York; R, Python, Machine Learning 
+Ella Brown | 40 | Web Developer, Los Angeles; HTML, CSS, JavaScript
+
+different delimiters:
+===
+'''
+###
+***
+<data>
+
+• Be clear and specific
+• Use delimiters to provide structure to your prompt
+
+# poor input poor output
+
+
+
+
+
+
+
