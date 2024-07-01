@@ -1,0 +1,40 @@
+When you try to solve a problem (X) by asking about a solution you think is appropriate (Y) rather than asking about X directly.
+
+X: What you want to know about
+Y: What your question actually asks about
+
+Practice:
+
+Your task is to revise the Draft Prompt so that it addresses X instead of Y.
+
+The information is below. I’ll see you in the next lesson where I’ll provide you with my proposed solution. Good luck!
+
+Scenario: In the near future, space agencies are planning a manned mission to Mars. One of the primary challenges is ensuring the astronauts have a consistent supply of fresh water for the duration of the mission, which could last several years, including time on the Martian surface. Transporting all the required water from Earth would be prohibitively heavy and expensive. Therefore, a system is needed to extract and purify water from available resources in space or on Mars.
+
+Problem: We need a system to ensure a consistent supply of fresh water for astronauts during a multi-year mission to Mars, considering the limitations of cargo weight and the potential to utilize Martian resources.
+
+Draft Prompt (Y): Develop a state-of-the-art system capable of efficiently extracting and purifying water from the Martian atmosphere, despite its sparse water vapor content, to ensure safe and sustainable consumption for astronauts during extended missions on Mars. Consider factors such as energy efficiency, scalability, and the adaptability of the system to varying atmospheric conditions.
+
+Did you spot the problem? The X-Y problem arises when the focus shifts solely to extracting water from the Martian atmosphere (Y), potentially overlooking other viable solutions to the actual problem (X) of needing a consistent water supply. For example other solutions might involve extracting water from underground ice deposits on Mars, recycling water within the spacecraft more efficiently, or a combination of methods. By focusing only on the perceived solution (Y), we might have missed out on potentially better or more efficient solutions to the actual problem (X)!
+
+Here’s an example of a prompt that better focuses on X:
+
+Design a sustainable water supply solution for astronauts on a multi-year Mars mission. Your solution must address the following factors:
+
+Mars' Resources: Feasibility of using underground ice or surface frost.
+Recycling: Implement advanced water recycling techniques onboard.
+Safety: Ensure extracted or recycled water is pure and safe for consumption.
+Energy Efficiency: Evaluate energy requirements and propose sustainable sources.
+Scalability: Ensure adaptability for varying mission durations or crew sizes.
+﻿
+
+Like with any prompt there are a hundred ways you could approach X, so if yours doesn’t look similar to this don’t worry! The key is that your prompt should be focused on X (creating a solution for supplying water to astronauts on Mars) rather than on Y (extracting water from the Martian atmosphere to supply water to astronauts on Mars).
+
+
+
+
+
+
+
+
+
