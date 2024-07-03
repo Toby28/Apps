@@ -1,0 +1,41 @@
+In-Context Learning include:
+  zero-shot prompting
+  one-shot prompting
+  few-shot prompting
+
+
+few-shot prompting example:
+
+Given a review, assign it a star rating of 1 to 5.
+
+<examples>
+
+Review: A visually stunning, serious examination of a possible dystopian future. Gorgeous actors are bringing this scenario to life.
+Star Rating: 5
+
+Review: i didn't like it so much because every step you go deeper in this movie the script becomes weaker untill you reach the near end it becomes so stupid, and the idea that god is eventually humans in the future with the ability to manipulate time is so stupid
+Star Rating: 3
+
+Review: Dumb space nonsense. I'm not saying I know entirely how space works. But it ain't that. Perchance.
+Star Rating: 1
+
+</examples>
+
+If you understand, say "I understand" and I will start providing you with reviews.
+
+how many examples given to GPT4 when doing few-shot?
+4-8
+
+### Chain-of-Thought Prompting:
+CoT allows the model to break complex, multi-step problems into simpler, intermediate steps
+
+Provides a window into the model's thought processes!
+• This allows for debugging
+
+When One-Shot or Few-Shot Prompting, write out the reasoning in your examples (shots)!
+
+zero-shot COT
+just add "Let's think step by step"
+
+
+
